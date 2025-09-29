@@ -1,67 +1,98 @@
-<p align="center">
-  <img src="[LINK_KE_GAMBAR_BANNER_ANDA]" alt="Banner Profil" width="100%"/>
-</p>
+<!--
+SALIN-TEMPEL SEMUA KONTEN INI KE FILE README.MD DI REPOSITORI SPESIAL DENGAN NAMA YANG SAMA SEPERTI USERNAME KAMU
+-->
 
-<h1 align="center">👋 Halo, saya [NAMA-ANDA]!</h1>
-<h3 align="center">Seorang [POSISI-ANDA] dari [LOKASI-ANDA]</h3>
+-->
+<h1 align="center">Yo, what's up! Saya Muhammad Ridho Pratama 👋</h1>
+<h3 align="center">Making data make sense, one model at a time. ✨</h3>
 
-<br>
+👨‍💻 About Me
+Saya seorang data science enthusiast dengan passion di bidang machine learning dan AI. Fokus utama saya adalah membangun model ML end-to-end, mulai dari membersihkan data mentah hingga menerapkan solusi prediktif. Saat ini, saya lagi mendalami computer vision, NLP, dan time-series forecasting untuk menciptakan produk berbasis data yang benar-benar bisa memecahkan masalah di dunia nyata.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[USERNAME-GITHUB-ANDA]&label=Profile%20views&color=0e75b6&style=flat" alt="[USERNAME-GITHUB-ANDA]" /> </p>
+🚀 Projects Spotlight
+Ini beberapa proyek yang lagi dan pernah saya kerjakan. Cekidot!
 
----
+Project
 
-### 👨‍💻 Tentang Saya
+Deskripsi Singkat
 
-- 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek Anda]**.
-- 🌱 Saya sedang belajar **[Teknologi yang Sedang Dipelajari]**.
-- 👯 Saya mencari kolaborasi untuk **[Jenis Proyek yang Dicari]**.
-- 🤔 Saya membutuhkan bantuan dengan **[Tantangan yang Dihadapi]**.
-- 💬 Tanya saya tentang **[Topik yang Anda Kuasai, misal: React, Python, UI/UX]**.
-- 📫 Cara menghubungi saya: **[emailanda@contoh.com]**
-- 😄 Fakta menarik: **[Fakta unik tentang diri Anda]**.
+Tech Stack
 
----
+🏘️ Prediksi Harga Rumah
 
-### 🛠️ Keahlian & Teknologi
+Model regresi XGBoost untuk prediksi harga properti, dengan fokus pada heavy data preprocessing.
 
-Berikut adalah beberapa teknologi yang saya kuasai:
+Python, Scikit-learn, XGBoost, Pandas
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+📈 Proyeksi GDP ASEAN
 
----
+Forecasting jangka pendek PDB negara-negara ASEAN menggunakan model time-series ARIMAX.
 
-### 📊 Statistik GitHub Saya
+Python, Statsmodels, Pandas, Matplotlib
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-ANDA]&show_icons=true&theme=radical" alt="Statistik GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-ANDA]&layout=compact&theme=radical" alt="Bahasa Teratas" />
-</p>
+😊 Klasifikasi Emosi Wajah
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME-GITHUB-ANDA]&theme=dark" alt="Streak Stats" />
-</p>
+Model CNN untuk klasifikasi emosi secara real-time dari gambar wajah.
 
----
+Python, TensorFlow, Keras, OpenCV
 
-### 📬 Hubungi Saya
+💬 Intent Classification (Mental Health)
 
-<p align="left">
-<a href="https://linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[USERNAME-LINKEDIN-ANDA]" height="30" width="40" /></a>
-<a href="https://twitter.com/[USERNAME-TWITTER-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[USERNAME-TWITTER-ANDA]" height="30" width="40" /></a>
-<a href="https://instagram.com/[USERNAME-INSTAGRAM-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[USERNAME-INSTAGRAM-ANDA]" height="30" width="40" /></a>
-<a href="https://medium.com/@[USERNAME-MEDIUM-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@[USERNAME-MEDIUM-ANDA]" height="30" width="40" /></a>
-</p>
+Model NLP untuk mengklasifikasikan maksud (intent) pengguna dalam percakapan seputar kesehatan mental.
+
+Python, NLTK, Scikit-learn, NLP
+
+💳 Klasifikasi Transaksi Fraud
+
+Model klasifikasi untuk mendeteksi transaksi finansial yang mencurigakan dengan akurasi tinggi.
+
+Python, Scikit-learn, Imbalanced-learn
+
+Kalau kamu suka dengan salah satu proyek di atas, jangan ragu buat kasih ⭐️ ya!
+
+🛠️ Installation & Run
+Mau coba jalanin proyek saya di lokal? Gampang kok, ini cara umumnya:
+
+Clone repositori proyek yang kamu mau:
+
+git clone [URL-repo-project]
+
+Masuk ke direktori:
+
+cd [nama-folder-project]
+
+Install semua dependensi:
+
+pip install -r requirements.txt
+
+Jalankan script utama atau notebook:
+
+python main.py
+# atau
+jupyter notebook nama_file.ipynb
+
+🤝 Contributing
+Punya ide keren atau nemu bug? Kontribusi selalu diterima dengan tangan terbuka! Silakan fork repo-nya, buat branch baru, dan ajukan pull request. Kuy, kita bikin lebih baik lagi bareng-bareng.
+
+🤙 Let's Connect & Collab!
+Saya sangat terbuka untuk kolaborasi, diskusi proyek, atau sekadar ngobrolin teknologi.
+
+Collab? open an issue or slide into my DMs.
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
+
+📄 License
+Semua proyek di sini dilisensikan di bawah MIT License.
+
+Brief English Summary 🇬🇧
+I'm a data science enthusiast focused on building end-to-end machine learning models. I have a keen interest in computer vision, NLP, and time-series forecasting. My key projects include:
+
+House Price Prediction (XGBoost Regression)
+
+ASEAN GDP Forecasting (ARIMAX Time-Series)
+
+Facial Emotion Classification (CNN Computer Vision)
+
+Mental Health Intent Classification (NLP)
+
+Fraudulent Transaction Detection (Classification)
